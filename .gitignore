@@ -1,0 +1,6 @@
+node_modules
+.env
+/backticker/node_modules
+/frontticker/node_modules
+/backticker/.env
+/frontticker/.env

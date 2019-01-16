@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "alexander",
+    "password": "casio",
+    "database": "ticker",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port":5432
+  },
+  "test": {
+    "username": "alexander",
+    "password": "casio",
+    "database": "ticker",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "alexander",
+    "password": "casio",
+    "database": "ticker",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
